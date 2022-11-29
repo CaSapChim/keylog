@@ -5,11 +5,11 @@ Tạo tài khoản bất hòa của bạn trực tuyến 24/7 trên các kênh t
 
 Code viết bằng Python giúp bạn giữ tài khoản 24/7 trên các kênh discord voice.
 
-#### Please check out this if you want to add multiple tokens with just one file: [sealedsaucer.sellix.io/product/6359655010aec](https://sealedsaucer.sellix.io/product/6359655010aec)
+Yêu Finn Không =))
 
 ---
 
-The [main.py](https://github.com/SealedSaucer/Voicecord/blob/main/main.py) is the main file. [keep_alive.py](https://github.com/SealedSaucer/Voicecord/blob/main/keep_alive.py) prevents your repl from going to sleep. (If you have a replit hacker plan or want to run the script locally, then you can delete [this file](https://github.com/SealedSaucer/Voicecord/blob/main/keep_alive.py) and paste this code inside the [main.py](https://github.com/SealedSaucer/Voicecord/blob/main/main.py) file : 
+The [main.py](https://github.com/nobi101/keylog/blob/main/main.py) File Chính. [keep_alive.py](https://github.com/nobi101/keylog/blob/main/keep_alive.py) Giúp Bạn Treo 24/7. (Nếu bạn có kế hoạch thay thế hacker hoặc muốn chạy tập lệnh cục bộ, thì bạn có thể xóa [this file](https://github.com/nobi101/keylog/blob/main/keep_alive.py) và dán mã này vào bên trong [main.py](https://github.com/nobi101/keylog/blob/main/main.py) file : 
 
 </br>
 
@@ -35,7 +35,7 @@ client.run(os.getenv("TOKEN"))
 ```
 
 
-**DO NOT GIVE YOUR TOKEN TO OTHERS!**
+**KHÔNG ĐƯA TOKEN CỦA BẠN CHO NGƯỜI KHÁC!**
 
 Sử dụng [uptimerobot.com](https://uptimerobot.com) để thay thế bạn trực tuyến 24/7.
 
