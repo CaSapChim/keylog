@@ -26,10 +26,10 @@ CHANNEL_ID = ID_Channel
 @client.event
 async def on_ready():
     os.system('clear')
-    print(f'Logged in as {client.user} ({client.user.id})')
+    print(f'Đăng Nhập Với Tên {client.user} ({client.user.id})')
     vc = discord.utils.get(client.get_guild(GUILD_ID).channels, id = CHANNEL_ID)
     await vc.guild.change_voice_state(channel=vc, self_mute=False, self_deaf=False)
-    print(f"Successfully joined {vc.name} ({vc.id})")
+    print(f"Tham Gia Thành Công {vc.name} ({vc.id})")
 
 client.run(os.getenv("TOKEN"))
 ```
